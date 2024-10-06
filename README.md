@@ -3,9 +3,11 @@
 
 <br>
 
-![](Preview%20Images/1.png) ![](Preview%20Images/2.png)
-![](Preview%20Images/3.png) ![](Preview%20Images/4.png)
-![](Preview%20Images/5.png) ![](Preview%20Images/6.png)
+<img src="Preview%20Images/1.png" width="300" /> <img src="Preview%20Images/2.png" width="300" />
+<img src="Preview%20Images/3.png" width="300" />
+<img src="Preview%20Images/4.png" width="300" />
+<img src="Preview%20Images/5.png" width="300" />
+<img src="Preview%20Images/6.png" width="300" />
 
 # Requirements
 To use the Flutter Forge application, you will need:
